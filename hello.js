@@ -17,3 +17,8 @@ console.log(n);
 var isNew = null;
 var myName = undefined;
 console.log(myName);
+var list1 = [1, 2, 3];
+var list2 = [1, 2, 3];
+var person1 = ["Hello", 12];
+console.log(list1);
+console.log(person1);

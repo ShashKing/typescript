@@ -25,4 +25,10 @@ let myName:string = undefined;
 
 console.log(myName)
 
+let list1: number[] = [1,2,3]
+let list2: Array<number> = [1,2,3]
 
+let person1: [string, number] = ["Hello",12]
+
+console.log(list1)
+console.log(person1)
