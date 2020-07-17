@@ -1,4 +1,13 @@
 "use strict";
 exports.__esModule = true;
 var message = "Hello Shashank";
-console.log(message);
+var x = 10;
+var y = 20;
+var sum;
+var title = "CodeEvolution";
+var isBegginer = true;
+var total = 23;
+var name = "Neha";
+var senetence = "My Name is " + name + "\nAnd I am a Beginner TypeScript Developer";
+console.log(isBegginer);
+console.log(senetence);
